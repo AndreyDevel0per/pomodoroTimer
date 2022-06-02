@@ -137,7 +137,7 @@ h6 {
 }
 
 .btn>button:hover {
-    border: 3px solid red;
+    border: 3px solid blueviolet;
     background: transparent;
     font-size: 25px;
     box-shadow: 10px 5px 5px;
